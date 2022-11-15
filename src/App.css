@@ -1,0 +1,20 @@
+*{
+  background-color: rgb(225, 228, 232);
+}
+
+.App {
+  text-align: center;
+
+}
+
+.card{
+  border: 0;
+}
+
+
+#imgtest{
+  width: 100px;
+  height: 100px;
+}
+
+
